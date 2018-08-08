@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name solar-light)(type KiCad)(uri "$(KIPRJMOD)/solar-light.pretty")(options "")(descr ""))
+)
